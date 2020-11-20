@@ -1,0 +1,7 @@
+C:\Users\Dima\source\repos\Random\Random\bin\Debug\Random.exe.config
+C:\Users\Dima\source\repos\Random\Random\bin\Debug\Random.exe
+C:\Users\Dima\source\repos\Random\Random\bin\Debug\Random.pdb
+C:\Users\Dima\source\repos\Random\Random\obj\Debug\RandomNum.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\Random\Random\obj\Debug\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Random\Random\obj\Debug\Random.exe
+C:\Users\Dima\source\repos\Random\Random\obj\Debug\Random.pdb
